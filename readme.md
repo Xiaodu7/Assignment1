@@ -68,5 +68,17 @@ To return to the home directory:
 
 `touch notes.txt`
 
+## cp
+
+**Description:** Copies files or directories,
+
+**Syntax:**
+
+`cp source destination`
+
+**Example:**
+
+`cp notes.txt backup.txt`
+
 
 
