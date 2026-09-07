@@ -14,3 +14,17 @@ This cheat sheet contains basic Linux and Git commands that I practiced for Modu
 
 `pwd`
 
+## ls
+
+**Description:** Lists filed and directoties in the current directory.
+
+**Syntax:**
+
+`ls`
+
+**Example:**
+
+`ls -la`
+
+The `-l` option displays detailed information, and the `-` option includes hidden files.
+
