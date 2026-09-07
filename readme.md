@@ -166,5 +166,21 @@ To create a new branch:
 
 `git branch new-feature`
 
+## git switch 
+
+**Description:** Switches between Git branches.
+
+**Syntax:**
+
+`git switch branch_name`
+
+**Example:**
+
+`git switch main`
+
+To creat and switch to a new branch:
+
+`git switch -c new-branch`
+
 
 
