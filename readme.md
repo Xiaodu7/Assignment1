@@ -28,3 +28,21 @@ This cheat sheet contains basic Linux and Git commands that I practiced for Modu
 
 The `-l` option displays detailed information, and the `-` option includes hidden files.
 
+## cd
+
+**Description:** Changes the current working directory.
+
+**Syntax:**
+
+`cd directory`
+
+**Example:**
+
+`cd Documents`
+
+To return to the home directory:
+
+`cd~`
+
+
+
