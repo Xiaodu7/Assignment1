@@ -182,5 +182,19 @@ To creat and switch to a new branch:
 
 `git switch -c new-branch`
 
+## git merge
+
+**Description:** Combines changes from another branch into the current branch.
+
+**Syntax:**
+
+`git merge branch_name`
+
+**Example:**
+
+`git merge feature-branch`
+
+This command is usually run from the branch that will receive the changes.
+
 
 
