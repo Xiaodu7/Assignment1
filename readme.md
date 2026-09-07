@@ -150,5 +150,21 @@ To stage all changed files:
 
 The `-m` option allows you to write a commit message directly in the command.
 
+## git branch
+
+**Description:** Lists, creates, or deletes Git branches.
+
+**Syntax:**
+
+`git branch`
+
+**Example:**
+
+`git branch`
+
+To create a new branch:
+
+`git branch new-feature`
+
 
 
