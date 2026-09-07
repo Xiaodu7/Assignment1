@@ -8,9 +8,9 @@ This cheat sheet contains basic Linux and Git commands that I practiced for Modu
 
 **Syntax:**
 
-'pwd'
+`pwd`
 
 **Example:**
 
-'pwd'
+`pwd`
 
