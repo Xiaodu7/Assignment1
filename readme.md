@@ -120,5 +120,21 @@ Use `rm -r` to remove a directory and its contents.
 
 This command shows modified, staged, and untracked files.
 
+## git add
+
+**Description:** Adds changes to the Git Staging area.
+
+**Syntax:**
+
+`git add filename`
+
+**Example:**
+
+`git add readme.md`
+
+To stage all changed files:
+
+`git add .`
+
 
 
