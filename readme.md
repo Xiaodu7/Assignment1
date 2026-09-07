@@ -136,5 +136,19 @@ To stage all changed files:
 
 `git add .`
 
+## git commit
+
+**Description:** Records staged changes in the Git repository.
+
+**Syntax:**
+
+`git commit -m "message"
+
+**Example:**
+
+`git commit -m "update readme"
+
+The `-m` option allows you to write a commit message directly in the command.
+
 
 
