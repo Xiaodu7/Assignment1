@@ -44,5 +44,17 @@ To return to the home directory:
 
 `cd~`
 
+## mkdir
+
+**Description:** Creates a new directory.
+
+**Syntax:**
+
+`mkdir directory_name`
+
+**Example:**
+
+`mkdir project`
+
 
 
