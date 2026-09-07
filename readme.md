@@ -92,5 +92,19 @@ To return to the home directory:
 
 `mv old.txt new.txt`
 
+## rm
+
+**Description:** Removes files or directories.
+
+**Syntax:** 
+
+`rm filename`
+
+**Example:**
+
+`rm old.txt`
+
+Use `rm -r` to remove a directory and its contents.
+
 
 
