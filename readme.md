@@ -16,7 +16,7 @@ This cheat sheet contains basic Linux and Git commands that I practiced for Modu
 
 ## ls
 
-**Description:** Lists filed and directoties in the current directory.
+**Description:** Lists files and directoties in the current directory.
 
 **Syntax:**
 
