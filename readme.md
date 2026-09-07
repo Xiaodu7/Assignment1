@@ -196,5 +196,17 @@ To creat and switch to a new branch:
 
 This command is usually run from the branch that will receive the changes.
 
+## git log
 
+**Description:** Displays the commit history of a Git repository.
+
+**Syntax:**
+
+`git log`
+
+**Example:**
+
+`git log --online`
+
+The `--oneline` option displays each commit in a compact format.
 
