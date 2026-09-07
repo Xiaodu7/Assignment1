@@ -106,5 +106,19 @@ To return to the home directory:
 
 Use `rm -r` to remove a directory and its contents.
 
+## git sttatus
+
+**Description:** Shows the current status of the working directory and staging area.
+
+**Syntax:** 
+
+`git status`
+
+**Example:**
+
+`git status`
+
+This command shows modified, staged, and untracked files.
+
 
 
