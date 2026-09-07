@@ -80,5 +80,17 @@ To return to the home directory:
 
 `cp notes.txt backup.txt`
 
+##mv
+
+**Description:** Moves or renames files and directories.
+
+**Syntax:**
+
+`mv source destination`
+
+**Example:**
+
+`mv old.txt new.txt`
+
 
 
