@@ -56,5 +56,17 @@ To return to the home directory:
 
 `mkdir project`
 
+## touch
+
+**Description:** Creates a new empty file or updates the timestamp of an existing file.
+
+**Syntax:**
+
+`touch filename`
+
+**Example:**
+
+`touch notes.txt`
+
 
 
